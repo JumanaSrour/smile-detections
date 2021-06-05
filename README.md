@@ -1,1 +1,1 @@
-# smile-detections
+# smile-detection
